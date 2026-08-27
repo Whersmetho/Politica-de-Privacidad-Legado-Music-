@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Política de Privacidad | Legado Music</title>
+<meta name="description" content="Política de privacidad de Legado Music: qué información procesamos, cómo la usamos y cómo puedes solicitar su eliminación.">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#0b0c0c">
+<link rel="canonical" href="https://legadomusic.com/privacy.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Legado Music">
+<meta property="og:title" content="Política de Privacidad | Legado Music">
+<meta property="og:description" content="Qué información procesa Legado Music, cómo la usa y cómo solicitar su eliminación.">
+<meta property="og:url" content="https://legadomusic.com/privacy.html">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/global.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+<header>
+<div class="container nav">
+<a class="logo" href="index.html">
+<span class="logo-mark"><svg viewBox="0 0 24 24" fill="none"><path d="M6 5l14 7-14 7V5z" fill="#14100a"/></svg></span>
+Legado Music
+</a>
+<nav class="navlinks" id="navlinks">
+<a href="index.html">Inicio</a>
+<a href="dashboard.html">Dashboard</a>
+<a href="privacy.html">Privacidad</a>
+<a href="terms.html">Condiciones</a>
+<a href="support.html">Soporte</a>
+<a class="btn btn-primary navlinks-cta" data-config="inviteUrl" href="#">Añadir a Discord</a>
+</nav>
+<div class="nav-right">
+<a class="btn btn-primary" data-config="inviteUrl" href="#">Añadir a Discord</a>
+<button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="navlinks">
+<svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round"/></svg>
+<svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"/></svg>
+</button>
+</div>
+</div>
+</header>
+<main class="legal" id="main">
+<div class="container">
+<div class="legal-layout">
+<aside class="toc">
+<a href="#s1">1. Información</a><a href="#s2">2. No recopilamos</a><a href="#s3">3. Uso</a><a href="#s4">4. Comandos</a><a href="#s5">5. Servicios externos</a><a href="#s6">6. Almacenamiento</a><a href="#s7">7. Eliminación</a><a href="#s8">8. Seguridad</a><a href="#s9">9. Menores</a><a href="#s10">10. Compartición</a><a href="#s11">11. Cookies</a><a href="#s12">12. Cambios</a><a href="#s13">13. Contacto</a><a href="#s14">14. Aceptación</a>
+</aside>
+<article>
+<span class="eyebrow"><span class="dot"></span>Documentación</span>
+<h1>Política de <span class="gradient">Privacidad</span></h1>
+<p class="intro">Última actualización: 27 de agosto de 2026</p>
+
+<section id="s1"><h2>1. Información que podemos recopilar</h2><p>Legado Music está diseñado para funcionar dentro de Discord y puede procesar determinada información necesaria para proporcionar sus funciones.</p><ul><li><strong>ID de usuario de Discord:</strong> utilizado para identificar al usuario que ejecuta determinados comandos.</li><li><strong>ID del servidor:</strong> utilizado para identificar el servidor en el que se utiliza el bot.</li><li><strong>ID de canal:</strong> utilizado para determinar dónde debe responder o funcionar una función.</li><li><strong>ID de mensajes:</strong> cuando sea necesario.</li><li><strong>Nombre de usuario o nombre mostrado:</strong> cuando sea necesario para una interacción.</li><li><strong>Configuraciones del servidor:</strong> preferencias relacionadas con el bot.</li><li><strong>Información relacionada con comandos:</strong> comandos y parámetros necesarios.</li><li><strong>Información técnica y de errores:</strong> para detectar problemas o fallos.</li></ul><p>Legado Music no solicita deliberadamente contraseñas, números de tarjetas de crédito, documentos de identidad ni información financiera.</p></section>
+<section id="s2"><h2>2. Información que no recopilamos intencionalmente</h2><ul><li>Contraseñas de Discord.</li><li>Tokens de cuentas de Discord.</li><li>Información bancaria o financiera.</li><li>Mensajes privados de los usuarios.</li><li>Datos personales sensibles que no sean necesarios.</li><li>Contenido de conversaciones privadas fuera de los canales donde interactúa el bot.</li></ul></section>
+<section id="s3"><h2>3. Uso de la información</h2><p>La información procesada puede utilizarse para ejecutar comandos, reproducir y administrar contenido musical, mantener configuraciones, recordar preferencias, detectar errores, prevenir abusos, mantener la seguridad y mejorar el rendimiento.</p></section>
+<section id="s4"><h2>4. Comandos y mensajes</h2><p>Legado Music puede procesar los mensajes que contengan comandos dirigidos al bot y los datos necesarios para interpretarlos. Por ejemplo: <strong>/play nombre de una canción</strong>.</p><p>No almacenamos deliberadamente el contenido completo de las conversaciones cuando no es necesario para proporcionar una función.</p></section>
+<section id="s5"><h2>5. Reproducción de música y servicios externos</h2><p>Legado Music puede utilizar servicios, APIs o plataformas externas para proporcionar funciones relacionadas con la búsqueda o reproducción de música. Dichos proveedores pueden procesar determinada información técnica.</p></section>
+<section id="s6"><h2>6. Almacenamiento de datos</h2><p>La información necesaria puede almacenarse durante el tiempo que sea necesario. Los datos de configuración pueden mantenerse mientras el bot permanezca instalado o sean necesarios para el servicio.</p></section>
+<section id="s7"><h2>7. Eliminación de datos</h2><p>Los administradores pueden solicitar la eliminación de datos asociados al funcionamiento del bot en su servidor. Un usuario también puede solicitar la eliminación de datos personales cuando corresponda. Algunas informaciones podrán conservarse cuando sea necesario por motivos legales, de seguridad o prevención de abusos.</p></section>
+<section id="s8"><h2>8. Seguridad</h2><p>Tomamos medidas razonables para proteger la información frente a accesos no autorizados, pérdida, alteración o divulgación. Ningún servicio conectado a Internet puede garantizar una seguridad absoluta.</p></section>
+<section id="s9"><h2>9. Menores de edad</h2><p>Los usuarios deben cumplir los requisitos de edad y las condiciones de Discord y las leyes aplicables en su jurisdicción.</p></section>
+<section id="s10"><h2>10. Compartición de información</h2><p>No vendemos ni alquilamos información personal. La información podrá compartirse cuando sea necesario para proporcionar funciones, utilizar servicios técnicos, mantener la seguridad, cumplir obligaciones legales o investigar abusos.</p></section>
+<section id="s11"><h2>11. Cookies y tecnologías similares</h2><p>Legado Music, como bot de Discord, no utiliza cookies dentro de Discord para identificar personalmente a los usuarios. Una web externa puede utilizar cookies necesarias para su funcionamiento.</p></section>
+<section id="s12"><h2>12. Cambios en esta Política</h2><p>Podemos modificar esta Política para reflejar cambios en Legado Music, sus funciones, servicios utilizados o requisitos legales. Se actualizará la fecha de última actualización.</p></section>
+<section id="s13"><h2>13. Contacto</h2><p>Para preguntas o solicitudes relacionadas con datos, contacta mediante los <a href="support.html">canales oficiales de soporte</a>.</p></section>
+<section id="s14"><h2>14. Aceptación</h2><p>Al añadir, configurar o utilizar Legado Music reconoces que has leído y comprendido esta Política. Si no estás de acuerdo, puedes dejar de utilizar el servicio y retirar el bot.</p></section>
+</article>
+</div>
+</div>
+</main>
+<footer>
+<div class="container footer">
+<span>© 2026 Legado Music</span>
+<div class="footer-links">
+<span>Política de Privacidad</span>
+</div>
+</div>
+</footer>
+<script src="config.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

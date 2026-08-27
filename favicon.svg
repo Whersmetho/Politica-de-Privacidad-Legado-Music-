@@ -1,0 +1,28 @@
+/**
+ * Configuración de Legado Music.
+ * Edita SOLO este archivo para actualizar enlaces en todo el sitio:
+ * el ID de la aplicación de Discord, el servidor de soporte y el correo de contacto.
+ */
+window.LEGADO_CONFIG = {
+  // ID de aplicación de Discord (Developer Portal → General Information → Application ID)
+  clientId: "TU_CLIENT_ID",
+  // Permisos y scopes del enlace de invitación del bot
+  inviteScopes: "bot%20applications.commands",
+  invitePermissions: "0",
+  // Enlace de invitación a tu servidor de Discord de soporte
+  supportDiscordUrl: "https://discord.gg/TU_INVITE",
+  // Correo de contacto oficial
+  supportEmail: "soporte@legadomusic.com",
+  // URL pública del sitio (para SEO / metadatos)
+  siteUrl: "https://legadomusic.com",
+};
+
+window.LEGADO_CONFIG.inviteUrl =
+  "https://discord.com/oauth2/authorize?client_id=" +
+  window.LEGADO_CONFIG.clientId +
+  "&permissions=" +
+  window.LEGADO_CONFIG.invitePermissions +
+  "&scope=" +
+  window.LEGADO_CONFIG.inviteScopes;
+
+window.LEGADO_CONFIG.supportEmailMailto = "mailto:" + window.LEGADO_CONFIG.supportEmail;

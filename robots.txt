@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Legado Music — El ritmo de tu servidor de Discord</title>
+<meta name="description" content="Legado Music es un bot de música y entretenimiento para Discord: reproducción, colas y controles pensados para tu comunidad.">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#0b0c0c">
+<link rel="canonical" href="https://legadomusic.com/index.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Legado Music">
+<meta property="og:title" content="Legado Music — El ritmo de tu servidor de Discord">
+<meta property="og:description" content="Bot de música y entretenimiento para Discord: reproducción, colas y controles pensados para tu comunidad.">
+<meta property="og:url" content="https://legadomusic.com/index.html">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Legado Music — El ritmo de tu servidor de Discord">
+<meta name="twitter:description" content="Bot de música y entretenimiento para Discord: reproducción, colas y controles pensados para tu comunidad.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/global.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Legado Music",
+  "applicationCategory": "MusicApplication",
+  "operatingSystem": "Discord",
+  "description": "Bot de música y entretenimiento para servidores de Discord.",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+<header>
+<div class="container nav">
+<a class="logo" href="index.html">
+<span class="logo-mark"><svg viewBox="0 0 24 24" fill="none"><path d="M6 5l14 7-14 7V5z" fill="#14100a"/></svg></span>
+Legado Music
+</a>
+<nav class="navlinks" id="navlinks">
+<a href="index.html">Inicio</a>
+<a href="dashboard.html">Dashboard</a>
+<a href="privacy.html">Privacidad</a>
+<a href="terms.html">Condiciones</a>
+<a href="support.html">Soporte</a>
+<a class="btn btn-primary navlinks-cta" data-config="inviteUrl" href="#">Añadir a Discord</a>
+</nav>
+<div class="nav-right">
+<a class="btn btn-primary" data-config="inviteUrl" href="#">Añadir a Discord</a>
+<button class="nav-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="navlinks">
+<svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round"/></svg>
+<svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"/></svg>
+</button>
+</div>
+</div>
+</header>
+<main id="main">
+
+<section class="hero">
+<div class="container">
+<span class="eyebrow"><span class="dot"></span>Música en vivo para tu comunidad</span>
+<h1>El ritmo de tu servidor,<br><span class="gradient">tu Legado.</span></h1>
+<p>Una experiencia musical pensada para Discord. Reproduce, controla y disfruta de tu música junto a tu comunidad, sin salir del canal de voz.</p>
+<div class="actions">
+<a class="btn btn-primary" data-config="inviteUrl" href="#">＋ Añadir a Discord</a>
+<a class="btn btn-secondary" href="dashboard.html">Abrir Dashboard →</a>
+</div>
+<div class="equalizer" aria-hidden="true">
+<span style="animation-delay:0s"></span><span style="animation-delay:.1s"></span><span style="animation-delay:.2s"></span><span style="animation-delay:.3s"></span><span style="animation-delay:.15s"></span><span style="animation-delay:.35s"></span><span style="animation-delay:.05s"></span><span style="animation-delay:.25s"></span><span style="animation-delay:.4s"></span><span style="animation-delay:.1s"></span><span style="animation-delay:.3s"></span><span style="animation-delay:0s"></span>
+</div>
+<div class="hero-meta">
+<span>/play — reproduce al instante</span>
+<span>/queue — gestiona la cola</span>
+<span>/config — a tu medida</span>
+</div>
+</div>
+</section>
+
+<section class="section" data-reveal>
+<div class="container">
+<div class="section-head">
+<h2>Todo lo que necesitas</h2>
+<p>Funciones preparadas para que administrar la música de tu servidor sea sencillo.</p>
+</div>
+<div class="cards">
+<article class="card">
+<div class="icon">🎵</div>
+<h3>Reproducción</h3>
+<p>Reproduce música en canales de voz y controla tu experiencia desde comandos rápidos como <code>/play</code> y <code>/pause</code>.</p>
+<span class="card-tag">/play</span>
+</article>
+<article class="card">
+<div class="icon">📋</div>
+<h3>Colas</h3>
+<p>Gestiona tus canciones, reordena, salta pistas y organiza lo que quieres escuchar a continuación.</p>
+<span class="card-tag">/queue</span>
+</article>
+<article class="card">
+<div class="icon">⚙️</div>
+<h3>Configuración</h3>
+<p>Personaliza el comportamiento de Legado Music: canales permitidos, roles y preferencias por servidor.</p>
+<span class="card-tag">/config</span>
+</article>
+</div>
+</div>
+</section>
+
+<section class="section" data-reveal>
+<div class="container">
+<div class="cta">
+<h2>Administra Legado desde un solo lugar</h2>
+<p style="margin:10px auto 25px;max-width:600px">La Dashboard está preparada para conectarse con Discord y permitir la administración completa de tus servidores.</p>
+<a class="btn btn-primary" href="dashboard.html">Ver Dashboard</a>
+</div>
+</div>
+</section>
+
+</main>
+<footer>
+<div class="container footer">
+<span>© 2026 Legado Music. Todos los derechos reservados.</span>
+<div class="footer-links">
+<a href="privacy.html">Privacidad</a>
+<a href="terms.html">Condiciones</a>
+<a href="support.html">Soporte</a>
+</div>
+</div>
+</footer>
+<script src="config.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
